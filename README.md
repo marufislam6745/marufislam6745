@@ -156,13 +156,11 @@ I'm **Maruf Islam**, a passionate **Full Stack Web Developer** who enjoys buildi
 
 ---
 
-# 📈 Contribution Activity
+# 📈 GitHub Streak Stats
 
-<div align="center">
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marufislam6745)  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marufislam6745&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=marufislam6745) 
 
 ---
 
