@@ -1,85 +1,321 @@
-<!-- ======================= PROFILE BANNER ======================= -->
 
-<p align="center">
-  <img 
-    src="./banner.png" 
-    alt="Maruf Islam - Full Stack Web Developer" 
-    width="100%"
-  />
-</p>
+<!-- ======================= HEADER ======================= -->
 
-<!-- ======================= PROFILE INTRO ======================= -->
+<div align="center">
 
-<h1 align="center">
-  Hi 👋, I'm Maruf Islam
-</h1>
+<img src="./banner.png" alt="Maruf Islam - Full Stack Web Developer" width="100%" />
 
-<h3 align="center">
-  Full-Stack Web Developer | JavaScript | React | Next.js
-</h3>
+# Hi 👋, I'm **Maruf Islam**
 
-<p align="center">
-  Building modern, responsive and user-friendly web applications.
-</p>
+### 🚀 Full Stack Web Developer
 
-<!-- ======================= PROFILE STATS ======================= -->
-
-<p align="center">
-
-  <img 
-    src="https://komarev.com/ghpvc/?username=marufislam6745&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
-    alt="Profile Views"
-  />
-
-  <img 
-    src="https://img.shields.io/github/followers/marufislam6745?label=Followers&style=for-the-badge&color=0e75b6" 
-    alt="GitHub Followers"
-  />
-
-  <img 
-    src="https://img.shields.io/github/stars/marufislam6745?label=Stars&style=for-the-badge&color=0e75b6" 
-    alt="GitHub Stars"
-  />
-
-</p>
-
-<p align="center">
+<p>
   <a href="https://github.com/marufislam6745">
-    <img 
-      src="https://img.shields.io/github/followers/marufislam6745?style=social" 
-      alt="GitHub followers"
-    />
+    <img src="https://img.shields.io/github/followers/marufislam6745?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/marufislam6745">
+    <img src="https://komarev.com/ghpvc/?username=marufislam6745&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  </a>
+  <a href="mailto:marufislam6745@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
----
+</div>
 
-<!-- ======================= ABOUT ME ======================= -->
+---
 
 ## 👨‍💻 About Me
 
-I'm **Maruf Islam**, a passionate **Full-Stack Web Developer** who loves creating modern, responsive and user-friendly web applications.
-
-I enjoy turning ideas into real-world applications using modern JavaScript technologies.
+I'm **Maruf Islam**, a passionate **Full Stack Web Developer** who enjoys building modern, responsive, and user-friendly web applications.
 
 - 🔭 Currently working with **Next.js, TypeScript & Modern Web Development**
 - 🌱 Currently learning **Node.js, Express.js & Full-Stack Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, TypeScript & Responsive Web Design**
-- 🛠️ Improving my skills in **React, Next.js, TypeScript & Backend Development**
-- 🚀 Interested in building **scalable and user-friendly applications**
-- 💡 Love learning new technologies and solving programming problems
-- 📫 Email: **marufislam6745@gmail.com**
+- 🛠️ Improving my skills in **JavaScript, React, TypeScript & Backend Development**
+- 🎯 Goal: Build scalable and impactful web applications
+- 📫 Reach me at **marufislam6745@gmail.com**
 
 ---
 
-<!-- ======================= CURRENT FOCUS ======================= -->
+## 🌐 Connect With Me
 
-## 🚀 Current Focus
+<p align="left">
+
+<a href="https://github.com/marufislam6745" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/maruf-islam-864352386" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://discord.gg/maruf1407" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="mailto:marufislam6745@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 🛠️ Languages & Technologies
+
+### 💻 Frontend
+
+<p align="left">
+
+<a href="https://www.w3.org/html/">
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+</a>
+
+<a href="https://www.w3.org/Style/CSS/">
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=typescript" height="45"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+</a>
+
+<a href="https://nextjs.org/">
+<img src="https://skillicons.dev/icons?i=nextjs" height="45"/>
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+</a>
+
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
+</a>
+
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" height="45"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
+</a>
+
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+</a>
+
+<a href="https://aws.amazon.com/">
+<img src="https://skillicons.dev/icons?i=aws" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=marufislam6745&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufislam6745&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=marufislam6745&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marufislam6745&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=marufislam6745&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+</div>
+
+GitHub Profile Trophy supports dynamically generated achievement cards and configurable themes/layouts.
+
+---
+
+# ⭐ GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=marufislam6745&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/marufislam6745">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=marufislam6745&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+
+</a>
+
+<a href="https://github.com/marufislam6745">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=marufislam6745&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/marufislam6745">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=marufislam6745&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
+
+</a>
+
+<a href="https://github.com/marufislam6745">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=marufislam6745&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" />
+
+</a>
+
+</div>
+
+> ⚠️ Replace `YOUR_PROJECT_1`, `YOUR_PROJECT_2`, `YOUR_PROJECT_3`, and `YOUR_PROJECT_4` with your actual repository names.
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marufislam6745&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/marufislam6745/marufislam6745/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 💡 What I Love Building
 
 ```text
-Frontend Development      ████████████████████░░   90%
-React / Next.js           ███████████████████░░░   85%
-TypeScript                █████████████████░░░░░   80%
-Backend Development       ██████████████░░░░░░░░   65%
-Database                  █████████████░░░░░░░░░   60%
-Git / GitHub              ████████████░░░░░░░░░░   55%
+🌐 Modern Web Applications
+⚡ Fast & Responsive Websites
+🎨 Clean UI/UX
+⚛️ React & Next.js Applications
+🔐 Full-Stack Applications
+🗄️ Database Driven Applications
+🚀 Scalable Backend Systems
+```
+
+---
+
+# 📌 Current Focus
+
+<div align="center">
+
+| Area | Currently Learning |
+|------|--------------------|
+| 🎨 Frontend | React, Next.js, TypeScript |
+| ⚙️ Backend | Node.js, Express.js |
+| 🗄️ Database | MongoDB |
+| 🚀 Development | Full-Stack Web Development |
+| 🔧 Tools | Git & GitHub |
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+### 💬 Have an idea or want to collaborate?
+
+I'm always interested in learning, building, and working on interesting web projects.
+
+<a href="mailto:marufislam6745@gmail.com">
+<img src="https://img.shields.io/badge/Let's%20Talk-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/maruf-islam-864352386">
+<img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=marufislam6745&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<br/>
+
+**Made with ❤️ by Maruf Islam**
+
+</div>
