@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="./banner.png" alt="Maruf Islam - Full Stack Web Developer" width="100%" />
+![](https://scontent.fcgp40-1.fna.fbcdn.net/v/t39.30808-6/831327303_122131875032740929_2817456115563381870_n.png?stp=dst-png&cstp=mx2172x724&ctp=s960x960&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=KfXfcf-JnaIQ7kNvwFQxo6y&_nc_oc=Adp3Udv_RRhxDtcQKaD6WnqcmGtrrymCPrT3iN2qahwaYo-op6De5z-EYzLhWQ3Dl1o&_nc_zt=23&_nc_ht=scontent.fcgp40-1.fna&_nc_gid=-LGG8Vwr_0C5Za_e8c7dAg&_nc_ss=7b2a8&oh=00_AQP6TmU2DN4rXHwAOwRSoiaICg6jpdNtoPix1NaL0a-AlA&oe=6AC6F241)
 
 # Hi 👋, I'm **Maruf Islam**
 
