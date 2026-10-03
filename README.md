@@ -156,16 +156,6 @@ I'm **Maruf Islam**, a passionate **Full Stack Web Developer** who enjoys buildi
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=marufislam6745&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
