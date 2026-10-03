@@ -176,17 +176,6 @@ I'm **Maruf Islam**, a passionate **Full Stack Web Developer** who enjoys buildi
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=marufislam6745&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-</div>
-
-GitHub Profile Trophy supports dynamically generated achievement cards and configurable themes/layouts.
-
----
 
 # ⭐ GitHub Statistics
 
@@ -198,65 +187,8 @@ GitHub Profile Trophy supports dynamically generated achievement cards and confi
 
 ---
 
-# 🌟 Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/marufislam6745">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marufislam6745&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
-
-</a>
-
-<a href="https://github.com/marufislam6745">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marufislam6745&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
-
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/marufislam6745">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marufislam6745&repo=YOUR_PROJECT_3&theme=tokyonight&hide_border=true" />
-
-</a>
-
-<a href="https://github.com/marufislam6745">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marufislam6745&repo=YOUR_PROJECT_4&theme=tokyonight&hide_border=true" />
-
-</a>
-
-</div>
-
-> ⚠️ Replace `YOUR_PROJECT_1`, `YOUR_PROJECT_2`, `YOUR_PROJECT_3`, and `YOUR_PROJECT_4` with your actual repository names.
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marufislam6745&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/marufislam6745/marufislam6745/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 # 💡 What I Love Building
 
