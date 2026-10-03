@@ -158,9 +158,10 @@ I'm **Maruf Islam**, a passionate **Full Stack Web Developer** who enjoys buildi
 
 # 📈 GitHub Streak Stats
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marufislam6745)  
+<div align="center">
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=marufislam6745) 
+  <img src="https://streak-stats.demolab.com/?user=marufislam6745&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+</div>
 
 ---
 
@@ -170,7 +171,6 @@ I'm **Maruf Islam**, a passionate **Full Stack Web Developer** who enjoys buildi
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=marufislam6745&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
